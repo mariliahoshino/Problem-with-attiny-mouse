@@ -3,8 +3,8 @@
 
 In this Issue have a solution for problem with mouse in Attiny 85
 
-I had the same problem how this
-digistump/DigistumpArduino#63
+I had the problem with mouse
+https://github.com/mariliahoshino/Problem-with-attiny-mouse/issues/1
 
 The library is wrong
 It is necessary change some lines
